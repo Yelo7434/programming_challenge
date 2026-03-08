@@ -9,3 +9,4 @@ for i in range(10):
     if num % 2 != 0:
         odd_count += 1  
 # Print the final count of odd numbers.
+print(f"The number of odd numbers entered is {odd_count}")
