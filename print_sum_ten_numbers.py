@@ -8,3 +8,4 @@ for i in range(10):
     total_sum += num
 # Loop through a range of 10 to get 10 numbers from the user.
 # Print the final sum of the numbers.
+print(f"The sum of the 10 numbers is: {total_sum}")
