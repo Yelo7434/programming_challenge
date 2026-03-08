@@ -4,4 +4,7 @@
 num1 = float(input("Enter the first number: "))
 # Get user input for the second number.
 num2 = float(input("Enter the second number: "))
+
 # Calculate the result of the first number raised to the second number and print the result.
+exponent_result = num1 ** num2
+print(f"The result of {num1} raised to the power of {num2} is: {exponent_result}")
