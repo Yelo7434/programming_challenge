@@ -3,3 +3,5 @@
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 # Compute the remainder of the division of the first number by the second number and print the result.
+remainder = num1 % num2
+print("The remainder when the first number is divided by the second number is: ", remainder)
