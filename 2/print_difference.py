@@ -3,3 +3,5 @@
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))  
 # Get the difference of the two numbers and print it.
+difference = num1 - num2
+print("The difference of the two numbers is:", difference) 
