@@ -3,3 +3,4 @@
 # Loop to get user input until the input is invalid.
 # If the input is a number, add it to the list.
 # If the input is invalid, break the loop.
+# After the loop, check if the list is empty. If it is empty, display "No numbers entered". If it is not empty, find the number with the most number of duplicate and display it.
